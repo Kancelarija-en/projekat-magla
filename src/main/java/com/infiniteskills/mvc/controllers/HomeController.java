@@ -13,6 +13,7 @@ public class HomeController {
 	public String goHome(Model model){
 		
 //		Project project = new Project();
+//		rturtzuutzutzè
 //		project.setName("First Project");
 //		project.setSponsor("Nasa");
 //		project.setDescription("This is a simple project sponsored by NASA");
